@@ -1,0 +1,8 @@
+packages/*
+tabgrid/bin/*
+tabgrid/obj/*
+Droid/bin/*
+Droid/obj/*
+iOS/bin/*
+iOS/obj/*
+
