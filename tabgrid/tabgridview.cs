@@ -1,9 +1,10 @@
 ﻿
 using Xamarin.Forms;
+using System.ComponentModel;
 
 namespace tabgrid
 {
-    public class tabgridview : ContentPage
+    public class tabgridview : ContentPage, INotifyPropertyChanged
     {
         StackLayout stack;
 
@@ -32,7 +33,7 @@ namespace tabgrid
                 Text = "Tab one",
                 TextColor = Color.White,
                 BackgroundColor = Color.Red,
-                HorizontalTextAlignment = TextAlignment.Center
+                HorizontalTextAlignment = TextAlignment.Center,
             };
             var lblNext = new Label
             {

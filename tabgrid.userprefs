@@ -1,16 +1,20 @@
 ﻿<Properties StartupConfiguration="{B9588B4C-D9D1-4FAC-B40C-7797E6455F55}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="tabgrid/tabgridview.cs">
     <Files>
-      <File FileName="tabgrid/tabgridview.cs" Line="24" Column="51" />
+      <File FileName="tabgrid/tabgridview.cs" Line="16" Column="55" />
       <File FileName="iOS/AppDelegate.cs" Line="21" Column="1" />
       <File FileName="tabgrid/tabgrid.cs" Line="10" Column="9" />
       <File FileName="Droid/MainActivity.cs" Line="23" Column="1" />
+      <File FileName="Droid/Resources/values/styles.xml" Line="1" Column="1" />
+      <File FileName="tabgrid/ColorConverter.cs" Line="9" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.tabgrid.Droid PreferredExecutionTarget="Android.192.168.66.101:5555" />
+  <MonoDevelop.Ide.ItemProperties.tabgrid.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.192.168.66.101:5555" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/PFJ/Developer/MyMind3/tabgrid/Droid/CustomRenders/CustomLabelRenderer.cs" line="20" column="79" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.tabgrid.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.31C581D1-1DDA-4985-A517-430063DB33CC" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
